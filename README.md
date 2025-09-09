@@ -1,5 +1,5 @@
-# Hello! 👋🏻
-👨🏻‍🎓 Currently a student at Laguna State Polytechnic University Sta. Cruz <br/>
+# Hello 🙋🏻‍♂️
+🎓Currently a student at Laguna State Polytechnic University Sta. Cruz <br/>
 📖 Studying Bachelor of Science in Information Technology <br/>
 💻 Excelling in Photoshop, Premiere Pro, HTML, CSS, JS, Python, Flask, MySQL <br/>
 
