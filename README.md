@@ -1,5 +1,6 @@
 # Hello 🙋🏻‍♂️
-🎓Currently a student at Laguna State Polytechnic University Sta. Cruz <br/>
+🎓 Currently a student at Laguna State Polytechnic University Sta. Cruz <br/>
+   Former student at San Antonio de Padua College 
 📖 Studying Bachelor of Science in Information Technology <br/>
 💻 Excelling in Photoshop, Premiere Pro, HTML, CSS, JS, Python, Flask, MySQL <br/>
 
