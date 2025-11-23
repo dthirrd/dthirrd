@@ -21,3 +21,6 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+# Certifications 📃
+![Certification Badge]([image_url_here](https://www.credly.com/badges/eee07e58-7c4b-478e-ba68-14c7171f3f23/public_url))
