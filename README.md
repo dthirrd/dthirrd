@@ -23,4 +23,4 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # Certifications 📃
-[![Cisco Networking Academy Badge](https://images.credly.com/size/340x340/images/[YOUR_BADGE_IMAGE.png](https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png))](https://www.credly.com/badges/[YOUR_BADGE_ID](https://www.credly.com/badges/eee07e58-7c4b-478e-ba68-14c7171f3f23/public_url))
+[![Cisco Networking Academy Badge](https://images.credly.com/size/340x340/images/(https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png))](https://www.credly.com/badges/(https://www.credly.com/badges/eee07e58-7c4b-478e-ba68-14c7171f3f23/public_url))
